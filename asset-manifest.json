@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Kartavya/static/css/main.3a659a3d.css",
-    "main.js": "/Kartavya/static/js/main.695091a9.js",
+    "main.js": "/Kartavya/static/js/main.f0dd9346.js",
     "index.html": "/Kartavya/index.html",
     "main.3a659a3d.css.map": "/Kartavya/static/css/main.3a659a3d.css.map",
-    "main.695091a9.js.map": "/Kartavya/static/js/main.695091a9.js.map"
+    "main.f0dd9346.js.map": "/Kartavya/static/js/main.f0dd9346.js.map"
   },
   "entrypoints": [
     "static/css/main.3a659a3d.css",
-    "static/js/main.695091a9.js"
+    "static/js/main.f0dd9346.js"
   ]
 }
